@@ -1,0 +1,1 @@
+{\n  "semi": true,\n  "trailingComma": "es5",\n  "singleQuote": true,\n  "printWidth": 100,\n  "tabWidth": 2,\n  "useTabs": false,\n  "arrowParens": "always",\n  "bracketSpacing": true,\n  "endOfLine": "lf"\n}\n
